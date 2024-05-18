@@ -19,5 +19,15 @@ Try out the Notes Maker App and experience the convenience of digital note-takin
 - Add a new note with a title and content.
 - Delete an existing note.
 - Notes are displayed in a list format.
-<img width="951" alt="image" src=" ">
+
+## Image
+Here is an example image:
+
+![Example Image](https://github.com/Nayankumar4986/Notes-taking-Application/blob/main/1.png)
+
+
+## Conclusion
+Thank you for visiting my project!
+
+
 
